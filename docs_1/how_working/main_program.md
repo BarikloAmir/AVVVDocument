@@ -1,1 +1,0 @@
-how working the main program document
